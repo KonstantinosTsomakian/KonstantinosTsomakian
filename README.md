@@ -30,7 +30,7 @@
 | 🎓 [**MSc_Course_Projects**](https://github.com/KonstantinosTsomakian/MSc_Course_Projects) | Coursework and projects from my MSc studies |
 
 ---
-
+### 📫 Get in Touch
 <p align="left">
   <a href="https://www.linkedin.com/in/konstantinos-tsomakian-021b081a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -42,13 +42,3 @@
 <p align="center"><em>Thanks for stopping by! 🧬</em></p>
 ---
 
-
-### 📫 Get in Touch
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/konstantinos-tsomakian-021b081a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><em>Thanks for stopping by! 🧬</em></p>
